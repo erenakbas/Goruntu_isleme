@@ -1,0 +1,9 @@
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe.config
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.exe
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\bin\Debug\goruntu_isleme.pdb
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csprojResolveAssemblyReference.cache
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Form1.resources
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.Properties.Resources.resources
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.csproj.GenerateResource.Cache
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.exe
+c:\users\eren\documents\visual studio 2012\Projects\goruntu_isleme\goruntu_isleme\obj\Debug\goruntu_isleme.pdb
